@@ -2,7 +2,7 @@
     "name": "My To-Do App",
     "short_name": "To-Do App",
     "description": "A simple to-do app built with React and Vite",
-    "start_url": ".",
+    "start_url": "https://www.unicktech.com/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
