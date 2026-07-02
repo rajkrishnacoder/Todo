@@ -17,14 +17,14 @@ export default defineConfig({
         theme_color: '#ffffff',
         icons: [
           {
-            src: 'https://via.placeholder.com/192x192.png?text=192x192',
+            src: 'react.svg',
             sizes: '192x192',
-            type: 'image/png',
+            type: 'image/svg+xml',
           },
           {
-            src: 'https://via.placeholder.com/512x512.png?text=512x512',
+            src: 'react.svg',
             sizes: '512x512',
-            type: 'image/png',
+            type: 'image/svg+xml',
           },
         ],
       },
