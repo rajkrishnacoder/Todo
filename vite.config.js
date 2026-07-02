@@ -14,7 +14,7 @@ export default defineConfig({
         name: 'My To-Do App',
         short_name: 'To-Do App',
         description: 'A simple to-do app built with React and Vite',
-        theme_color: '#ffffff',
+        theme_color: '#000000',
         icons: [
           {
             src: 'react.svg',
@@ -25,6 +25,8 @@ export default defineConfig({
             src: 'react.svg',
             sizes: '512x512',
             type: 'image/svg+xml',
+            // what the fuck is happening here? i need to understand this better 
+            // what can be done in herj
           },
         ],
       },
