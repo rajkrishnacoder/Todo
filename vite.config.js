@@ -26,7 +26,7 @@ export default defineConfig({
             sizes: '512x512',
             type: 'image/svg+xml',
             // what the fuck is happening here? i need to understand this better 
-            // what can be done in herj
+            // what can be done in her
           },
         ],
       },
